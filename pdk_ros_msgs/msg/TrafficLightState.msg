@@ -1,0 +1,6 @@
+uint8 TLS_RED=0
+uint8 TLS_YELLOW=1
+uint8 TLS_GREEN=2
+uint8 TLS_FLASHING=3
+uint8 TLS_OFF=4
+uint8 TLS_BLACK=5

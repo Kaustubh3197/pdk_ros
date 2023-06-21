@@ -1,0 +1,2 @@
+string WMInumber
+string VDS
