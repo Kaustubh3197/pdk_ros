@@ -1,0 +1,154 @@
+cmake_minimum_required(VERSION 2.8.3)
+project(pdk_ros_msg)
+
+find_package(catkin REQUIRED COMPONENTS message_generation std_msgs)
+
+add_message_files(
+  DIRECTORY
+  msg
+  FILES
+  Acceleration3dWithConfidence.msg
+  AccelerationCartesian.msg
+  AccelerationComponent.msg
+  AccelerationMagnitude.msg
+  AccelerationPolarWithZ.msg
+  ActionID.msg
+  Altitude.msg
+  AngularSpeedConfidence.msg
+  BasicVehicleContainerHighFrequency.msg
+  BasicVehicleContainerLowFrequency.msg
+  CAMessage.msg
+  CartesianAngle.msg
+  CartesianAngularVelocityComponent.msg
+  CartesianCoordinateWithConfidence.msg
+  CartesianPosition3d.msg
+  CartesianPosition3dWithConfidence.msg
+  CauseCode.msg
+  CauseCodeType.msg
+  ChannelBusyRatio.msg
+  CircularShape.msg
+  ClosedLanes.msg
+  CommandRequest.msg
+  CommandResponse.msg
+  CommandResponseData.msg
+  CorrelationColumn.msg
+  CPMessage.msg
+  CpmPayload.msg
+  Curvature.msg
+  CurvatureCalculationMode.msg
+  DangerousGoodsBasic.msg
+  DangerousGoodsExtended.msg
+  DeltaReferencePosition.msg
+  DriveDirection.msg
+  EllipticalShape.msg
+  EnergyStorageType.msg
+  EulerAnglesWithConfidence.msg
+  EventHistory.msg
+  EventPoint.msg
+  FacilityLayerMessage.msg
+  FacilityLayerReception.msg
+  FacilityLayerTransmission.msg
+  GossipMessage.msg
+  HardShoulderStatus.msg
+  Heading.msg
+  IntersectionReferenceID.msg
+  ItineraryPath.msg
+  ItsPduHeader.msg
+  LifecycleAction.msg
+  LightBarSirenInUse.msg
+  LinkLayerPriority.msg
+  LinkLayerReception.msg
+  LinkLayerTransmission.msg
+  LongitudinalAcceleration.msg
+  LongitudinalLanePosition.msg
+  LowerTriangularPositiveSemidefiniteMatrix.msg
+  LowerTriangularPositiveSemidefiniteMatrixColumns.msg
+  ManagmentContainer.msg
+  MapPosition.msg
+  MapReference.msg
+  MatrixIncludedComponents.msg
+  MessageRateHz.msg
+  MessageRateRange.msg
+  MessageSegmentationInfo.msg
+  ObjectClass.msg
+  ObjectClassWithConfidence.msg
+  ObjectDimension.msg
+  OriginatingRSUContainer.msg
+  OriginatingStationsContainer.msg
+  OriginatingVehicleContainer.msg
+  OtherSubClass.msg
+  pdk_MsgHeader.msg
+  pdk_RadarObjectList.msg
+  pdk_SensorMsgHeader.msg
+  pdk_SensorType.msg
+  pdk_SignalSource.msg
+  pdk_SignalStatus.msg
+  pdk_time.msg
+  pdk_version.msg
+  PerceivedObject.msg
+  PerceivedObjectContainer.msg
+  PerceptionRegion.msg
+  PerceptionRegionContainer.msg
+  PolygonalShape.msg
+  PositionConfidenceEllipse.msg
+  PositioningSolutionType.msg
+  PositionOfOccupants.msg
+  PtActivationType.msg
+  RadialShape.msg
+  RadialShapeDetails.msg
+  RadialShapes.msg
+  RadioConfiguration.msg
+  RectangularShape.msg
+  ReferenceDenms.msg
+  ReferencePosition.msg
+  RelevanceDistance.msg
+  RelevanceTrafficDirection.msg
+  RequestResponseIndication.msg
+  RestrictedTypes.msg
+  RoadSegmentReferenceID.msg
+  RoadType.msg
+  SensorInformation.msg
+  SensorInformationContainer.msg
+  SensorType.msg
+  Shape.msg
+  SignalStatus.msg
+  SPATState.msg
+  Speed.msg
+  StationaryObject.msg
+  StationarySince.msg
+  StationaryVehicle.msg
+  StationType.msg
+  TrafficLightState.msg
+  TrafficParticipantType.msg
+  TrafficRule.msg
+  VehicleIdentification.msg
+  VehicleLength.msg
+  VehicleLengthConfidenceIndication.msg
+  VehicleWidth.msg
+  Velocity3dWithConfidence.msg
+  VelocityCartesian.msg
+  VelocityComponent.msg
+  VelocityPolarWithZ.msg
+  VruClusterInformation.msg
+  VruClusterProfiles.msg
+  VruProfileAndSubprofile.msg
+  VruSubProfileAnimal.msg
+  VruSubProfileBicyclist.msg
+  VruSubProfileMotorcyclist.msg
+  VruSubProfilePedestrian.msg
+  Wgs84Angle.msg
+  YawRate.msg
+  YawRateConfidence.msg
+)
+
+generate_messages(DEPENDENCIES std_msgs)
+
+catkin_package(
+  CATKIN_DEPENDS std_msgs message_runtime message_generation
+)
+
+install(DIRECTORY include/${PROJECT_NAME}/
+  DESTINATION ${CATKIN_PACKAGE_INCLUDE_DESTINATION}
+  FILES_MATCHING PATTERN "*.h"
+)
+
