@@ -1,0 +1,13 @@
+bool xPosition
+bool yPosition
+bool zPosition
+bool xVelocityOrVelocityMagnitude
+bool yVelocityOrVelocityDirection
+bool zSpeed
+bool xAccelOrAccelMagnitude
+bool yAccelOrAccelDirection
+bool zAcceleration
+bool zAngle
+bool yAngle
+bool xAngle
+bool zAngularVelocity

@@ -1,0 +1,4 @@
+Wgs84Angle orientationAngle
+CartesianAngle pitchAngle
+CartesianAngle rollAngle
+int64 trailerDataset

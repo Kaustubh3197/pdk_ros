@@ -1,0 +1,5 @@
+CartesianPosition3d center_point
+uint32 semiLength
+uint32 semiBreadth
+uint32 orientation
+uint32 height

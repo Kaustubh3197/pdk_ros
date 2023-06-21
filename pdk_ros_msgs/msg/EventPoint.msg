@@ -1,0 +1,4 @@
+DeltaReferencePosition eventPosition
+bool has_eventDeltaTime
+uint32 eventDeltaTime
+uint32 informationQuality

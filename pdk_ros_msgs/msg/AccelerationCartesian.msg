@@ -1,0 +1,4 @@
+AccelerationComponent xAcceleration
+AccelerationComponent yAcceleration
+bool has_zAcceleration
+AccelerationComponent zAcceleration

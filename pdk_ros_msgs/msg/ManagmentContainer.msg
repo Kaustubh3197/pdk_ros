@@ -1,0 +1,5 @@
+uint64 referenceTime
+ReferencePosition referencePosition
+MessageSegmentationInfo segmentationInfo
+MessageRateRange messageRateRange
+StationType stationtype

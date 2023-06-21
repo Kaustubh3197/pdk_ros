@@ -1,0 +1,8 @@
+DangerousGoodsBasic dangerousGoodsType
+uint32 unNumber
+bool elevatedTemperature
+bool tunnelsRestricted
+bool limitedQuantity
+string emergencyActionCode
+string phoneNumber
+string companyName

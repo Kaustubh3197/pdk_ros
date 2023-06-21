@@ -1,0 +1,3 @@
+uint32 semi_major_confidence
+uint32 semi_minor_confidence
+uint32 semi_major_orientation

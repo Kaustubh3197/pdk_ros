@@ -1,0 +1,4 @@
+int64 latitude
+int64 longitude
+PositionConfidenceEllipse position_confidence
+Altitude altitude
