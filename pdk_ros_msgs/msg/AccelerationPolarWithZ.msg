@@ -1,4 +1,0 @@
-AccelerationMagnitude accelerationMagnitude
-CartesianAngle accelerationDirection
-bool has_zAcceleration
-AccelerationComponent zAcceleration

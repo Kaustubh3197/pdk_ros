@@ -1,2 +1,0 @@
-string WMInumber
-string VDS

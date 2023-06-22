@@ -1,4 +1,0 @@
-MapReference mapReference
-uint32 laneId
-uint32 connectionId
-LongitudinalLanePosition longitudinalLanePosition

@@ -1,2 +1,0 @@
-CauseCodeType causeCode
-uint32 subCauseCode

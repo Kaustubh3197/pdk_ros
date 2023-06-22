@@ -1,8 +1,0 @@
-bool has_shapeReferencePoint
-CartesianPosition3d shapeReferencePoint
-uint32 semiMajorAxisLength
-uint32 semiMinorAxisLength
-bool has_orientation
-uint32 orientation
-bool has_height
-uint32 height

@@ -1,2 +1,0 @@
-VelocityPolarWithZ polarVelocity
-VelocityCartesian cartesianVelocity

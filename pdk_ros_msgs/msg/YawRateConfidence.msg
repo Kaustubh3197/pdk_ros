@@ -1,9 +1,0 @@
-uint8 YRC_degSec_000_01=0
-uint8 YRC_degSec_000_05=1
-uint8 YRC_degSec_000_10=2
-uint8 YRC_degSec_001_00=3
-uint8 YRC_degSec_005_00=4
-uint8 YRC_degSec_010_00=5
-uint8 YRC_degSec_100_00=6
-uint8 YRC_OutOfRange=7
-uint8 YRC_UNAVAILABLE=8

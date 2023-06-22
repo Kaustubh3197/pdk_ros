@@ -1,2 +1,0 @@
-uint32 accelerationMagnitudeValue
-uint32 accelerationConfidence

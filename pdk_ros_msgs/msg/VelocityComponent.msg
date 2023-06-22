@@ -1,2 +1,0 @@
-int32 vel_comp_value
-uint32 speed_confidence

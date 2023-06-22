@@ -1,2 +1,0 @@
-uint32 mantissa
-int32 exponent

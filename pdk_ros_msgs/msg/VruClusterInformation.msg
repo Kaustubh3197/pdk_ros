@@ -1,4 +1,0 @@
-uint32 clusterId
-Shape clusterBoundingBoxShape
-uint32 clusterCardinalitySize
-VruClusterProfiles clusterProfiles

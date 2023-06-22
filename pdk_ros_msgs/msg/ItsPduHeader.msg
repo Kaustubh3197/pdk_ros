@@ -1,3 +1,0 @@
-uint32 protocol_version
-uint32 message_id
-uint32 station_id

@@ -1,8 +1,0 @@
-bool is_lifecycle
-LifecycleAction lifecycle
-bool is_linklayer_tx
-LinkLayerTransmission linklayer_tx
-bool is_radio_cfg
-RadioConfiguration radio_cfg
-bool is_facilitieslayer_tx
-FacilityLayerTransmission facilitieslayer_tx

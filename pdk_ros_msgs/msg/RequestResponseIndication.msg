@@ -1,2 +1,0 @@
-uint8 RRI_REQUEST=0
-uint8 RRI_RESPONSE=1

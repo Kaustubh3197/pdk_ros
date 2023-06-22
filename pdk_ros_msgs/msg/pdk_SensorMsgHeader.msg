@@ -1,4 +1,0 @@
-pdk_SignalStatus signalStatus
-pdk_SensorType sensorType
-pdk_MsgHeader t_CommonHeader
-uint32 u_SensorId

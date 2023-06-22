@@ -1,3 +1,0 @@
-uint8 mapref
-RoadSegmentReferenceID roadsegment
-IntersectionReferenceID intersection

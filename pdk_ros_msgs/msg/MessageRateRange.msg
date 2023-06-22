@@ -1,2 +1,0 @@
-MessageRateHz messageRateMin
-MessageRateHz messageRateMax

@@ -1,3 +1,0 @@
-Speed velocityMagnitude
-CartesianAngle velocityDirection
-VelocityComponent zVelocity

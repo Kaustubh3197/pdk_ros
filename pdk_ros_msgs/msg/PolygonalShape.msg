@@ -1,3 +1,0 @@
-CartesianPosition3d shapeReferencePoint
-CartesianPosition3d[] polygon
-uint32 height

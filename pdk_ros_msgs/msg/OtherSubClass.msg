@@ -1,4 +1,0 @@
-bool unknown
-bool singleObject
-bool multipleObjects
-bool bulkMaterial

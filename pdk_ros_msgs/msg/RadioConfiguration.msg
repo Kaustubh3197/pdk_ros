@@ -1,5 +1,0 @@
-uint8[] address
-uint32 channel_frequency_mhz
-bool filter_unicast_destination
-int32 default_tx_power_cbm
-uint32 default_tx_datarate_500kbps

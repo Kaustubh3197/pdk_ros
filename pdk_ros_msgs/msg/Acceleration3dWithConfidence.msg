@@ -1,5 +1,0 @@
-uint8 ACCELERATION_POLAR = 0
-uint8 ACCELERATION_CARTESIAN = 1
-uint8 acceleration_type
-AccelerationPolarWithZ polarAcceleration
-AccelerationCartesian cartesianAcceleration

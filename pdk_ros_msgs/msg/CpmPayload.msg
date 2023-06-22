@@ -1,4 +1,0 @@
-OriginatingStationsContainer org_stn_cntr
-SensorInformationContainer snsr_info_cntr
-PerceptionRegionContainer prcptn_rgn_cntr
-PerceivedObjectContainer prcvd_obj_cntr

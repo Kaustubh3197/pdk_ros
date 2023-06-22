@@ -1,5 +1,0 @@
-uint32 ARS430EO = 0
-uint32 ARS430DI = 1
-uint32 SRR520CO = 3
-uint32 ARS540DEMO = 4
-uint32 UNKNOWN = 99

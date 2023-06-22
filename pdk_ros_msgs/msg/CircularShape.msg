@@ -1,5 +1,0 @@
-bool has_shapeRefPoint
-CartesianPosition3d shapeRefPoint
-int32 radius
-bool has_height
-uint32 height

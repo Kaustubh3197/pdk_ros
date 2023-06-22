@@ -1,3 +1,0 @@
-int32 deltaLatitude
-int32 deltaLongitude
-int32 deltaAltitude

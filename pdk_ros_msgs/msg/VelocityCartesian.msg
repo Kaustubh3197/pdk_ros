@@ -1,3 +1,0 @@
-VelocityComponent xVelocity
-VelocityComponent yVelocity
-VelocityComponent zVelocity

@@ -1,4 +1,0 @@
-CartesianCoordinateWithConfidence x_cord
-CartesianCoordinateWithConfidence y_cord
-bool has_z_cord
-CartesianCoordinateWithConfidence z_cord

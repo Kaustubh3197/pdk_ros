@@ -1,2 +1,0 @@
-RoadSegmentReferenceID roadsegment
-IntersectionReferenceID intersection

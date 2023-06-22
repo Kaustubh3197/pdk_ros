@@ -1,5 +1,0 @@
-int32 range
-uint32 horizontalOpeningAngleStart
-uint32 horizontalOpeningAngleEnd
-uint32 verticalOpeningAngleStart
-uint32 verticalOpeningAngleEnd

@@ -1,5 +1,0 @@
-int64 sensorID
-SensorType sensor_type
-Shape perception_region_shape
-uint32 perception_region_conf
-bool shadowingapplies

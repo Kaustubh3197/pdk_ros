@@ -1,2 +1,0 @@
-int64 cartesian_value
-int64 cartesian_angle_confidence

@@ -1,2 +1,0 @@
-uint32 wgsAngleValue
-uint32 wgs84AngleConfidence
