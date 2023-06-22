@@ -1,0 +1,6 @@
+CartesianPosition3d sharedRefPoint
+uint32 range
+uint32 stationaryHorizontalOpeningAngleStart
+uint32 stationaryHorizontalOpeningAngleEnd
+uint32 verticalOpeningAngleStart
+uint32 verticalOpeningAngleEnd

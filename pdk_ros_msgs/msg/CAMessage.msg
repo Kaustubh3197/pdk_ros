@@ -1,0 +1,7 @@
+ItsPduHeader header
+uint64 generation_delta_time
+StationType station_type
+ReferencePosition reference_position
+BasicVehicleContainerHighFrequency high_frequency_container
+bool has_low_frequency_container
+BasicVehicleContainerLowFrequency low_frequency_container

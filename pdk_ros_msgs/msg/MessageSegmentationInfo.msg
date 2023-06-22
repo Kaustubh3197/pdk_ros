@@ -1,0 +1,2 @@
+uint32 totalMsgNo
+uint32 thisMsgNo

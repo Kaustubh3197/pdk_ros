@@ -1,0 +1,7 @@
+int32 measurementDeltaTime
+uint32 perceptionRegionConfidence
+Shape perceptionRegionShape
+bool shadowingApplies
+uint32[] sensorIdList
+uint32 numberOfPerceivedObjects
+uint32 perceivedObjectIds

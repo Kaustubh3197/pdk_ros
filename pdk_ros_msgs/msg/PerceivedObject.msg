@@ -1,0 +1,16 @@
+uint32 objectID
+int32 measurementDeltaTime
+CartesianPosition3dWithConfidence position
+Velocity3dWithConfidence velocity
+Acceleration3dWithConfidence acceleration
+EulerAnglesWithConfidence angles
+CartesianAngularVelocityComponent zAngularVelocity
+LowerTriangularPositiveSemidefiniteMatrix[] lowerTriangularCorrelationMatrices
+ObjectDimension objectDimensionZ
+ObjectDimension objectDimensionY
+ObjectDimension objectDimensionX
+uint32 objectAge
+uint32 objectPerceptionQuality
+uint32[] sensorIdList
+ObjectClassWithConfidence[] classification
+MapPosition mapPosition

@@ -1,0 +1,1 @@
+StationType[] restricted_vehicles

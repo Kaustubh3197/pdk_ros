@@ -1,0 +1,2 @@
+uint64 originatingStationId
+uint32 sequenceNumber

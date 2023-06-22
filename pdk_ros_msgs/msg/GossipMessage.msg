@@ -1,0 +1,6 @@
+bool is_cbr
+ChannelBusyRatio cbr
+bool is_linklayer_rx
+LinkLayerReception linklayer_rx
+bool is_facilitylayer_rx
+FacilityLayerReception facilitylayer_rx

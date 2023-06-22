@@ -1,0 +1,4 @@
+int8 DD_FORWARD=0
+int8 DD_BACKWARD=1
+int8 DD_UNAVAILABLE=2
+uint8 type
