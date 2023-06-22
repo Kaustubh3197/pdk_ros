@@ -1,0 +1,2 @@
+int32 value
+VehicleLengthConfidenceIndication veh_len_conf_ind

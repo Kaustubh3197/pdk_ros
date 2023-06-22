@@ -1,0 +1,5 @@
+CartesianPosition3d referencePosition
+ObjectDimension objectDimension
+PolygonalShape objectShape
+MessageSegmentationInfo messageSegmentationInfo
+ObjectClassWithConfidence objectClass

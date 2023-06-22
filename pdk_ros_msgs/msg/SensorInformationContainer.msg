@@ -1,0 +1,1 @@
+SensorInformation[] snsr_infrmtn

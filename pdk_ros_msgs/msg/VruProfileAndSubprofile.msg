@@ -1,0 +1,4 @@
+VruSubProfilePedestrian pedestrian
+VruSubProfileBicyclist bicyclistAndLightVruVehicle
+VruSubProfileMotorcyclist motorcyclist
+VruSubProfileAnimal animal
